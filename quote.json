@@ -1,0 +1,34 @@
+{
+    "data":
+    [
+        {
+            "id": "1",
+            "content": "Cầm được là bỏ được",
+            "author": "Ẩn danh"
+        },
+
+        {
+            "id": "2",
+            "content": "Em mêt mỏi lắm gòi!",
+            "author": "Em Han"
+        },
+
+        {
+            "id": "3",
+            "content": "Ở đâu có bí mật, ở đó có tôi.",
+            "author": "Con Lợn"
+        },
+
+        {
+            "id": "4",
+            "content": "Buồn thế. Tôi thất vọng về anh.",
+            "author": " Em Han"
+        },
+
+        {
+            "id": "5",
+            "content": "",
+            "author": "Ẩn danh"
+        }
+    ]
+}
